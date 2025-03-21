@@ -1,11 +1,11 @@
-title: Nighthawk Pages 
+title: Table 1 
 description: "Class of 2025"
 owner_name: Gaheera Babbar
 github_username: gaheerab
 github_repo: "tri3frontend" 
 baseurl: "/tri3frontend"
 future: true
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
