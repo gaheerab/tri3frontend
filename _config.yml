@@ -18,5 +18,4 @@ plugins:
 header_pages:
   - navigation/blog.md
   - navigation/search.md
-  - navigation/randomalgohome.md
 hide: false
