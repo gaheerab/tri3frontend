@@ -5,20 +5,24 @@ description: Team Teach Group 1
 permalink: /random-algo-simulation-game
 menu: nav/teamteach.html
 ---
+<!-- Tailwind CSS -->
 <script src="https://cdn.tailwindcss.com"></script>
 
-# Random Algorithms and Simulation Games
-Abby, Ethan, Soumini, Risha 
+<!-- Main Container -->
+<div class="min-h-screen bg-black text-white font-sans p-8">
+  <div class="max-w-4xl mx-auto bg-gray-900 p-6 rounded-xl shadow-xl">
+    <h1 class="text-3xl font-bold mb-4">Random Algorithms and Simulation Games</h1>
+    <p class="text-lg mb-4">Abby, Ethan, Soumini, Risha</p>
 
+    <p class="mb-6 text-base">
+      <strong>Please create a Jupyter notebook for your popcorn and homework hacks.</strong>
+      This should be one singular notebook for both random algorithms and simulation games.
+    </p>
 
-**Please create a jupyter notebook for your popcorn and homework hacks. This should be one singular note book for both random algorithms and simulation games**
-
-[Homework Submission](https://docs.google.com/forms/d/e/1FAIpQLSecpn3NMfAQG05I_9P6X9P1s5vSyjr5UwiuNio3qgcYqIcdFg/viewform?usp=header)
-
-
-| **Grade (%)** | **Reasoning** |
-|---------------|
-| 55 | No submission |
-| 70-85 | Minimal effort shown or lack of correctness |
-| 85-95 | It's clear that time and effort was spent on the assignment. Meeting most of the requirements/finished most of the hacks with effort and correctness |
-| 95-100 | Going beyond assignment with correctness |
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSecpn3NMfAQG05I_9P6X9P1s5vSyjr5UwiuNio3qgcYqIcdFg/viewform?usp=header"
+       target="_blank"
+       class="inline-block bg-blue-600 hover:bg-blue-500 text-white font-bold py-2 px-4 rounded transition">
+      📎 Homework Submission
+    </a>
+  </div>
+</div>
